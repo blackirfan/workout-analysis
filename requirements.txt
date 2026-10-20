@@ -1,0 +1,9 @@
+# Python 3.10–3.12 recommended. ffmpeg must also be installed (brew install ffmpeg).
+ultralytics==8.4.183
+torch==2.14.1
+torchvision==0.29.1
+opencv-python==5.0.0.93
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+gradio==6.30.0
